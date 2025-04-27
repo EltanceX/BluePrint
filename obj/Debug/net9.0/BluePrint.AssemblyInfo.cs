@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BluePrint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e492cd94c9903e396e7a545a1529669ec07eed")]
 [assembly: System.Reflection.AssemblyProductAttribute("BluePrint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BluePrint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

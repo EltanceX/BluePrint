@@ -1,9 +1,3 @@
-# BluePrint
-Offline BluePrint File Manager
-
-
-# SBP Format
-
 SCBPF[1:Deflate 0:None] Survivalcraft World Blueprint Format
 Little Endian
 Default World Origin: 0, 0, 0
