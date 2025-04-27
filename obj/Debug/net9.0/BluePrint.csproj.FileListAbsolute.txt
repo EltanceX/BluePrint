@@ -1,0 +1,14 @@
+C:\Users\EltanceX\source\repos\BluePrint\bin\Debug\net9.0\BluePrint.exe
+C:\Users\EltanceX\source\repos\BluePrint\bin\Debug\net9.0\BluePrint.deps.json
+C:\Users\EltanceX\source\repos\BluePrint\bin\Debug\net9.0\BluePrint.runtimeconfig.json
+C:\Users\EltanceX\source\repos\BluePrint\bin\Debug\net9.0\BluePrint.dll
+C:\Users\EltanceX\source\repos\BluePrint\bin\Debug\net9.0\BluePrint.pdb
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.AssemblyInfoInputs.cache
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.AssemblyInfo.cs
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.csproj.CoreCompileInputs.cache
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.dll
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\refint\BluePrint.dll
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.pdb
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\BluePrint.genruntimeconfig.cache
+C:\Users\EltanceX\source\repos\BluePrint\obj\Debug\net9.0\ref\BluePrint.dll
